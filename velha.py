@@ -2,8 +2,8 @@ import pygame
 import sys
 import tkinter
 import random
-from pygame.locals import *
-import kivy
+from pygame.locals import *  #Essas imports que não estão sendo utilizados, são apenas para salvar para projetos futuros.
+import kivy 
 from kivy.app import App
 from kivy.uix.label import Label
 from pygame.constants import QUIT
